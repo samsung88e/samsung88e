@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning in University of Minnesota,
 - 💞️ I’m looking for an intership or a job related to my major.
 - 📫 How to reach me @samsung88e@gamil.com
+- 📫 My code blog here! https://blog.naver.com/samsung66e 
 
 <!---
 samsung88e/samsung88e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
