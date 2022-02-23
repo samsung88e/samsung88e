@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hyunwoo Teddy Kim from South Korea,
 - 👀 I’m interested in computer science major,
-- 🌱 I’m currently learning in University of Minnesota,
-- 💞️ I’m looking for an intership or a job related to my major.
+
 - 📫 How to reach me @samsung88e@gamil.com
 - 📫 My code blog here! https://blog.naver.com/samsung66e 
 
